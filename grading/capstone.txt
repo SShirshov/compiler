@@ -1,0 +1,4 @@
+Errors:
+
+- Missing source zip
+- Missing simeon_shirshov_portfolio.pdf
